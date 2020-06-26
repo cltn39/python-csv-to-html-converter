@@ -1,5 +1,5 @@
 # python-csv-to-html-converter
-Python program run on apache server that converts .csv files into html in table.
+Python program run on apache server that converts .csv files into html in table. Single python file creates HTML & CSS while minimizing the usage of libraries such as pandas, thus no additional library installation required to run the program.
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/cltn39/main-portfolio#readme)
@@ -13,6 +13,13 @@ Python program run on apache server that converts .csv files into html in table.
 
 * Twitter: [@cltn39](https://twitter.com/cltn39)
 * Github: [@cltn39](https://github.com/cltn39)
+
+## 💻 Used Technology
+
+* python 3.8.3 
+* HTML5
+* CSS
+* Apache HTTP Server
 
 ## Show your support
 
