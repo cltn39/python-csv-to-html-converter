@@ -14,6 +14,11 @@ Python program run on apache server that converts .csv files into html in table.
 * Twitter: [@cltn39](https://twitter.com/cltn39)
 * Github: [@cltn39](https://github.com/cltn39)
 
+## Getting Started
+* required to have apache server running, python 3.5 or higher, amd .cvs file
+* .csv file must follow the following format(columm titles, cell value)
+
+
 ## 💻 Used Technology
 
 * python 3.8.3 
